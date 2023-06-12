@@ -1,9 +1,9 @@
 <h1 align="center">Olá! Me chamo Brenno de Aguiar Pinheiro Lopes</h1>
 <h3 align="center">Tenho 17 anos e sou um jovem programador em busca de experiência!</h3>
 
-- :pushpin: Brasilia - DF
+- :us: Fluente em Inglês **Formado na Casa Thomas Jefferson**
 
-- :books: Atualmente estudando no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa) - **Engenharia de Software (1º Semestre)**
+- :books: Atualmente estudando no IDP (nstituto Brasileiro de Ensino, Desenvolvimento e Pesquisa) **Engenharia de Software - 1º Semestre**
 
 - :computer: Finalizei meu primeiro projeto: [RPG - Game (Em C)](https://github.com/BrennoLopess/jogo-rpg)
 
