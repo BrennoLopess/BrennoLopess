@@ -3,7 +3,7 @@
 
 - :pushpin: Brasilia - DF
 
-- :us: Fluente em Inglês **Formado na Casa Thomas Jefferson**
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Fluente em Inglês **Formado na Casa Thomas Jefferson**
 
 - :books: Atualmente estudando no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa) **Engenharia de Software - 1º Semestre**
 
