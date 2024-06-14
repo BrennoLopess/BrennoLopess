@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20306
-Fork on GitHub
-6194
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Olá! Me chamo Brenno de Aguiar Pinheiro Lopes</h1>
 <h3 align="center">Tenho 17 anos e sou um jovem programador em busca de experiência!</h3>
 
