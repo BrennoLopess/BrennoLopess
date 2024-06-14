@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Me chamo Brenno de Aguiar Pinheiro Lopes</h1>
-<h3 align="center">Tenho 17 anos e sou um jovem programador em busca de experiência!</h3>
+<h3 align="center">Tenho 18 anos e sou um jovem programador em busca de experiência!</h3>
 
 - :us: Fluente em Inglês **Formado na Casa Thomas Jefferson**
 
