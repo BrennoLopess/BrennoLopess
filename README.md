@@ -3,7 +3,7 @@
 
 - :us: Fluente em Inglês **Formado na Casa Thomas Jefferson**
 
-- :books: Atualmente estudando no IDP (nstituto Brasileiro de Ensino, Desenvolvimento e Pesquisa) **Engenharia de Software - 4º Semestre**
+- :books: Atualmente estudando no IDP (nstituto Brasileiro de Ensino, Desenvolvimento e Pesquisa) **Engenharia de Software - 5º Semestre**
 
 - :computer: Finalizei meu primeiro projeto: [RPG - Game (Em C)](https://github.com/BrennoLopess/jogo-rpg)
 
