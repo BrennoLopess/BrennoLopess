@@ -29,7 +29,7 @@ Sou um desenvolvedor de software apaixonado por transformar ideias em soluções
   - 📎 Baseado em mais de 40 documentos reais, como políticas de auxílio, benefícios e procedimentos internos
   - 🖥️ Tecnologias: Python, FAISS, Claude 3 Haiku, embeddings, PDF processing, Gradio
 
-- 📊 **Painel BI de Atestados (Apex-Brasil)** – Monitoramento do uso da IA Alice nas cooperativas e mapeamento de afastamentos por tipo e CID  
+- 📊 **Painel BI de Atestados (Apex-Brasil)** – Mapeamento de afastamentos por tipo e CID  
   - Scripts automatizados de extração e análise (Python + pandas)  
   - Organização por datas, categorias, gravidade...
 
