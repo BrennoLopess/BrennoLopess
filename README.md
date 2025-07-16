@@ -1,16 +1,16 @@
 # Olá! Me chamo Brenno de Aguiar Pinheiro Lopes 👋
 
-Sou um desenvolvedor de software apaixonado por transformar ideias em soluções reais. Tenho 19 anos, sou estudante de Engenharia de Software no **IDP (5º semestre)** e já participei de projetos e hackathons com foco em **inteligência artificial, saúde mental, sistemas educacionais e automação com dados**.
+Sou um desenvolvedor de software apaixonado por transformar ideias em soluções reais. Tenho 19 anos, sou estudante de Engenharia de Software no **IDP (6º semestre)** e já participei de projetos e hackathons com foco em **inteligência artificial, saúde mental, sistemas educacionais e automação com dados**.
 
 ---
 
 ### 🚀 Sobre mim
 
 - 🇧🇷 Brasileiro, 19 anos
-- 🎓 Estudante de Engenharia de Software no IDP
+- 🎓 Estudante de Engenharia de Software no IDP - **(6º semestre)**
 - 💬 Fluente em Inglês (Formado na Casa Thomas Jefferson)
 - 💡 Apaixonado por IA Generativa, sistemas web e projetos com impacto social
-- 🎯 Buscando oportunidades de estágio e crescimento na área de tecnologia
+- 🎯 Buscando crescimento na área de tecnologia e, principalmente, na área de dados
 
 ---
 
