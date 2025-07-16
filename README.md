@@ -16,14 +16,22 @@ Sou um desenvolvedor de software apaixonado por transformar ideias em soluções
 
 ### 💼 Experiências e Projetos
 
-- 🧠 **Desabafa** – Plataforma de apoio psicológico com IA emocional, Flask, PostgreSQL e React  
-  → IA conversa com usuários e recomenda psicólogos com base no caso e preferências  
-- 🤖 **A Menina do RH** – Chatbot com LLaMA e RAG para responder dúvidas sobre RH a partir de documentos  
-  → FAISS, embeddings com multilingual-e5-base, geração de respostas com LLaMA 2-7B-Chat  
-- 📊 **Painel BI de Atestados (Apex-Brasil)** – Monitoramento de afastamentos, com scripts de extração e dashboards interativos  
-- 🎮 **RPG em C** – Primeiro projeto pessoal usando estruturas de dados e lógica em C  
-- 🔁 **Notificações com n8n** – Fluxos de automação com Webhooks, Redis, Firebase e Firestore para bots e notícias  
-- ☁️ **IDP Assist (AWS)** – Projeto educacional com Amazon Q, S3, Lambda e Bedrock para ajudar alunos e professores
+- 🧠 **Desabafa** – Plataforma de apoio emocional com múltiplas IAs integradas  
+  Sistema completo que conecta usuários a psicólogos de forma anônima, oferecendo triagem emocional automatizada:
+  - 🧭 IA 1: Reconhece o contexto e sentimentos em cada frase enviada pelo paciente.
+  - 📊 IA 2: Classifica o grau de gravidade emocional (leve, moderado ou crítico).
+  - 🤝 IA 3: Recomendação personalizada dos 3 psicólogos mais adequados ao perfil do paciente, com base em especialidades, histórico e preferências.
+  - 🖥️ Tecnologias: React, Flask, Socket.IO, PostgreSQL, IA NLP (multimodal), sistema de alertas, autenticação anônima.
+
+- 🤖 **A Menina do RH** – Chatbot para responder dúvidas internas sobre políticas de RH  
+  - 🔍 Usa recuperação de documentos (RAG) com **FAISS** e embeddings **multilingual-e5-base**
+  - 🧠 Responde perguntas com IA Claude 3 Haiku da **Anthropic via OpenRouter**
+  - 📎 Baseado em mais de 40 documentos reais, como políticas de auxílio, benefícios e procedimentos internos
+  - 🖥️ Tecnologias: Python, FAISS, Claude 3 Haiku, embeddings, PDF processing, Gradio
+
+- 📊 **Painel BI de Atestados (Apex-Brasil)** – Monitoramento do uso da IA Alice nas cooperativas e mapeamento de afastamentos por tipo e CID  
+  - Scripts automatizados de extração e análise (Python + pandas)  
+  - Organização por datas, categorias, gravidade...
 
 ---
 
