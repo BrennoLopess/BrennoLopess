@@ -1,11 +1,63 @@
-<h1 align="center">Olá! Me chamo Brenno de Aguiar Pinheiro Lopes</h1>
-<h3 align="center">Tenho 19 anos e sou um jovem programador em busca de experiência!</h3>
+# Olá! Me chamo Brenno de Aguiar Pinheiro Lopes 👋
 
-- :us: Fluente em Inglês **Formado na Casa Thomas Jefferson**
+Sou um desenvolvedor de software apaixonado por transformar ideias em soluções reais. Tenho 19 anos, sou estudante de Engenharia de Software no **IDP (5º semestre)** e já participei de projetos e hackathons com foco em **inteligência artificial, saúde mental, sistemas educacionais e automação com dados**.
 
-- :books: Atualmente estudando no IDP (nstituto Brasileiro de Ensino, Desenvolvimento e Pesquisa) **Engenharia de Software - 5º Semestre**
+---
 
-- :computer: Finalizei meu primeiro projeto: [RPG - Game (Em C)](https://github.com/BrennoLopess/jogo-rpg)
+### 🚀 Sobre mim
+
+- 🇧🇷 Brasileiro, 19 anos
+- 🎓 Estudante de Engenharia de Software no IDP
+- 💬 Fluente em Inglês (Formado na Casa Thomas Jefferson)
+- 💡 Apaixonado por IA Generativa, sistemas web e projetos com impacto social
+- 🎯 Buscando oportunidades de estágio e crescimento na área de tecnologia
+
+---
+
+### 💼 Experiências e Projetos
+
+- 🧠 **Desabafa** – Plataforma de apoio psicológico com IA emocional, Flask, PostgreSQL e React  
+  → IA conversa com usuários e recomenda psicólogos com base no caso e preferências  
+- 🤖 **A Menina do RH** – Chatbot com LLaMA e RAG para responder dúvidas sobre RH a partir de documentos  
+  → FAISS, embeddings com multilingual-e5-base, geração de respostas com LLaMA 2-7B-Chat  
+- 📊 **Painel BI de Atestados (Apex-Brasil)** – Monitoramento de afastamentos, com scripts de extração e dashboards interativos  
+- 🎮 **RPG em C** – Primeiro projeto pessoal usando estruturas de dados e lógica em C  
+- 🔁 **Notificações com n8n** – Fluxos de automação com Webhooks, Redis, Firebase e Firestore para bots e notícias  
+- ☁️ **IDP Assist (AWS)** – Projeto educacional com Amazon Q, S3, Lambda e Bedrock para ajudar alunos e professores
+
+---
+
+### 🛠️ Tecnologias
+
+**Linguagens:**  
+`C` `C++` `Python` `JavaScript` `TypeScript` `SQL`
+
+**Frameworks e Ferramentas:**  
+`Flask` `React` `Firebase` `Docker` `n8n` `PostgreSQL` `MongoDB` `RAG` `LLMs` `FAISS` `Streamlit` `Power BI`
+
+**Outros:**  
+`Git` `Linux` `Figma` `Socket.IO` `AWS (S3, Lambda, Bedrock)` `APIs REST`
+
+---
+
+### 🌍 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/@brennolopes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_instagram)  
+[![LinkedIn](https://img.shields.io/badge/Brenno%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_linkedin/)  
+[![Gmail](https://img.shields.io/badge/brenno.lopes@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenno.lopes@email.com)
+
+---
+
+### ✨ Curiosidades
+
+- 🧩 Fã de desafios e competições (como hackathons e olimpíadas de programação)
+- 🦾 Gosto de trabalhar em time, aprender rápido e buscar soluções criativas
+- 📚 Sempre estudando e atualizando projetos no GitHub
+
+---
+
+> 💡 *“Tecnologia é ferramenta, propósito é o que dá sentido.”*  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
